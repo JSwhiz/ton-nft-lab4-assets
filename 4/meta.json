@@ -1,5 +1,5 @@
 {
     "name": "NFT #4",
     "description": "Item 4 of the custom TON NFT collection.",
-    "image": "nft_4.png"
+    "image": "https://raw.githubusercontent.com/JSwhiz/ton-nft-lab4-assets/main/nft_1.png"
 }
